@@ -168,5 +168,6 @@
     line-height: 32px;
     font-family: var(--plus-jakarta-sans);
     color: var(--secondary-color);
+    margin-left: 5px;
     opacity: 0.8;
 }
