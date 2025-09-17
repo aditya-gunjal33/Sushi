@@ -20,13 +20,6 @@
     text-align: center;
 }
 
-.popular-foods__filters {
-    margin-top: 48px;
-    max-width: 100%;
-    overflow-x: auto;
-    justify-content: center;
-    display: flex;
-    justify-content: center;
-    gap: 24px;
-
+.popular-foods__title{
+    margin-bottom: 40px;
 }
